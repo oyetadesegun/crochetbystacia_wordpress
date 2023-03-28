@@ -1,7 +1,7 @@
-#Crochet By Stacia
+<h1>Crochet By Stacia</h1>
 Crochet By Stacia is a WordPress e-commerce website for a Crochet brand that specializes in ready-made attire and bespoke crochet outfits. Our website provides a seamless shopping experience for our customers, allowing them to easily browse and purchase our high-quality crochet products.
 
-#Features
+<p>Features</p>
 Our website offers the following features:
 
 A user-friendly interface for customers to browse our products and place orders
